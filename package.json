@@ -34,7 +34,7 @@
     "pack": "electron-builder --dir -c.mac.identity=null"
   },
   "dependencies": {
-    "@primer/components": "23.2.1",
+    "@primer/components": "28.2.4",
     "auto-launch": "5.0.5",
     "contribution": "4.1.1",
     "cron": "1.8.2",
